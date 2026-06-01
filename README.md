@@ -1,5 +1,7 @@
 # Data-project-demo
 This my second Data Analyst project
+<br>
+Author - Rajib Maity
 # 📊 Indian Stock Market — Data Analysis Capstone Project
 
 > **Bluestock Fintech Internship
